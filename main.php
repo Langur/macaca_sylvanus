@@ -8,7 +8,6 @@
  * @author Akihisa ONODA <akihisa.onoda@osarusystem.com>
  */
 
-
 namespace Sylvanus;
 
 /**
